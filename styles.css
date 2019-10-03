@@ -99,7 +99,7 @@ aside h1 {
 hr {
   padding-left: 30px;
   padding-right: 30px;
-  margin-left: 100px;
+  margin-left: 120px;
 }
 
 /* middle section top nav-bar */
@@ -133,6 +133,7 @@ hr {
 a {
   text-decoration: none;
   font-size: 14px;
+  color:black;
 
 }
 
@@ -155,4 +156,21 @@ a {
 
 .repos-filter {
 
+}
+
+
+
+/* update 10/2 */
+
+.repo-assignments a {
+  color: blue;
+  font-weight: 600;
+  font-size: 25px
+}
+.update-time {
+  padding:40px;
+}
+
+.button-placement {
+  margin-right:400px;
 }
